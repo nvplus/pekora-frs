@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "hls-server": "^1.5.0",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
